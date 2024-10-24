@@ -1,0 +1,95 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.apks
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+local.properties
+
+# Android Studio
+*.iml
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/misc.xml
+.navigation/
+captures/
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+.cxx/
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Version control
+vcs.xml
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Kotlin
+*.kotlin_module
+
+# Log Files
+*.log
+
+# Android Studio Debug Bridge
+.adb*
+
+# Flutter/Dart specific (if you're using Flutter)
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# VS Code specific
+.vscode/
+*.code-workspace
+
+# Windows specific
+desktop.ini
+
+# Linux specific
+*~
+.directory
+.fuse_hidden*
+.nfs*
